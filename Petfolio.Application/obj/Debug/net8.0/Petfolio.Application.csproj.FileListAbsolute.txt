@@ -13,3 +13,4 @@ C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Application\obj\Debug
 C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
 C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
 C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
+C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json

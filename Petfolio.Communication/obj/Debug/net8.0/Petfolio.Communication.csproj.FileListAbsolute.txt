@@ -9,3 +9,4 @@ C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Communication\obj\Deb
 C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Communication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
 C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.pdb
 C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Communication\obj\Debug\net8.0\ref\Petfolio.Communication.dll
+C:\Users\gabriel.leite\Documents\Gabriel\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.sourcelink.json
